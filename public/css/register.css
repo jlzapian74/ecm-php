@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+  }
+  
+  .register-card {
+    width: 500px;
+    padding: 1.5rem;
+    border-radius: 1rem;
+  }
